@@ -6,3 +6,8 @@
 
 ## [책이랑 동일한 문제가 있는 홈페이지](https://learncodethehardway.org/more-python-book/ex4.html)
 ## [솔루션 깃헙 레포](https://github.com/zedshaw/learn-more-python-the-hard-way-solutions)
+
+## 순서
+1. [프로세스에 대해서](1.process.md)
+2. [해킹이란? 스파이크는?](4.hackings.md)
+3. []()
